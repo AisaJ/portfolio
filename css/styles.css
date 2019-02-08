@@ -46,7 +46,7 @@
     color: white;
 
   }
-  .info{
+  #resume{
     background-color: #b4dfe5;
     color: #303c6c;
     height: auto;
@@ -61,6 +61,8 @@
     float: left;
     width: 70%;
     text-align: center;
+    border-right: 2px solid #303c6c;
+    margin-right: 2.5em;
   }
   #background ul{
     text-align: left;
