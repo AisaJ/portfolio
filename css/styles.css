@@ -44,8 +44,9 @@
     background-repeat: no-repeat;
     text-align: center;
     color: white;
-
+    margin-right: 1em;
   }
+
   #resume{
     background-color: #b4dfe5;
     color: #303c6c;
@@ -56,6 +57,9 @@
     text-align: center;
     font-size: 1.5em;
     font-family: 'Quicksand', sans-serif;
+  }
+  #desc p span{
+    font-size: 1.5em;
   }
   #background{
     float: left;
