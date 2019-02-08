@@ -6,11 +6,11 @@
   width: 100%;
 }
   nav{
-    background-color: #b4dfe5;
+    background-color: rgba(180,223,229,0.5);
     width: inherit;
     position: fixed;
     top: 0;
-    opacity: 40%;
+    overflow-x: hidden;
     /* top: 0;position: fixed; */
   }
   nav ul{
@@ -36,7 +36,7 @@
     color: #303c6c;
   }
   .about{
-    margin-top: 4em;
+    margin-top: 6em;
     background-color: #303c6c;
     height: 25em;
   }
