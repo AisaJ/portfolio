@@ -1,8 +1,8 @@
 
   nav{
     background-color: #b4dfe5;
-    position: fixed;
-    z-index: -1;
+    width:auto;
+
   }
   nav ul{
     text-align: right;
@@ -17,6 +17,7 @@
   nav ul li a{
     color: #303c6c;
     font-size: 1.2em;
+    text-decoration: none;
   }
   nav ul li:hover{
     background-color: #fbe8a6;
@@ -27,7 +28,7 @@
   .container{
     background-color: #303c6c;
     z-index: -2;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     color: white;
   }
   .about{
