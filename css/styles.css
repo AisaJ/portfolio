@@ -49,6 +49,7 @@
   .info{
     background-color: #b4dfe5;
     color: #303c6c;
+    height: auto;
   }
   #desc{
     padding: 0 1em 1em 1em;
@@ -60,4 +61,7 @@
     float: left;
     width: 70%;
     text-align: center;
+  }
+  #background ul{
+    text-align: left;
   }
