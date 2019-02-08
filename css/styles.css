@@ -80,6 +80,12 @@
   #background h3{
     text-decoration: underline;
   }
+  #background p span{
+    text-align: left;
+  }
   #skills{
     padding-top: 1em;
+  }
+  #skills img{
+    margin-left: 10em;
   }
