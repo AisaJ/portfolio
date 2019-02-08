@@ -36,9 +36,9 @@
     background-image: url('../images/office.jpg');
     width: 70%;
     background-size: cover;
+    background-position: center;
     height:25em;
     background-repeat: no-repeat;
-    background-position: center;
     text-align: center;
     color: white;
 
