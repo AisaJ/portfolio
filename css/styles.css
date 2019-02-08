@@ -1,3 +1,5 @@
-body{
-  
+@@media only screen and (min-width: 400px){
+  .container{
+    background-color: #c96567;
+  }
 }
