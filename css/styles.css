@@ -1,12 +1,15 @@
 
   nav{
     background-color: #b4dfe5;
-    width:auto;
+    width:100%;
+    position: fixed;
+    top: 0;
+    opacity: 40%;
+    /* top: 0;position: fixed; */
 
   }
   nav ul{
     text-align: right;
-
   }
   nav ul li{
     display: inline-block;
@@ -14,6 +17,7 @@
     text-transform: uppercase;
     padding: 1.6em;
   }
+
   nav ul li a{
     color: #303c6c;
     font-size: 1.2em;
@@ -29,6 +33,7 @@
     font-family: 'Quicksand', sans-serif;
     color: white;
     height: auto;
+    top: 0;
   }
   .about{
     background-color: #303c6c;
