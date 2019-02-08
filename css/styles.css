@@ -1,12 +1,21 @@
-@@media only screen and (min-width: 400px){
+
   .container{
-    background-color: #c96567;
+    background-color: #b4dfe5;
+    z-index: 0.1;
+    font-family: 'Lora', serif;
   }
-  .about h1{
+  .about{
+    height: 25em;
+  }
+  #name{
     float: left;
-    background-image: url('../images/holding-laptop.jpeg');
+    background-image: url('../images/office.jpg');
     width: 70%;
-    text-align: bottom center;
     background-size: cover;
+    height:15em;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: justify;
+    color: white;
+
   }
-}
