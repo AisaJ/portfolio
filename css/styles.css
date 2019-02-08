@@ -26,12 +26,12 @@
     color: #303c6c;
   }
   .container{
-    background-color: #303c6c;
     font-family: 'Quicksand', sans-serif;
     color: white;
     height: auto;
   }
   .about{
+    background-color: #303c6c;
     height: 25em;
   }
   #name{
@@ -46,11 +46,15 @@
     color: white;
 
   }
+  .info{
+    background-color: #b4dfe5;
+    color: #303c6c;
+  }
   #desc{
     padding: 0 1em 1em 1em;
     text-align: center;
     font-size: 1.5em;
-    font-family: 'Secular One', sans-serif;
+    font-family: 'Quicksand', sans-serif;
   }
   #background{
     float: left;
