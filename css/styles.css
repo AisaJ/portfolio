@@ -1,6 +1,6 @@
 
   nav{
-    background-color: #b4dfe5;
+    background-color: rgb(49,68,85);
     width:auto;
 
   }
@@ -26,7 +26,7 @@
     color: #303c6c;
   }
   .container{
-    background-color: #303c6c;
+    background-color: rgba(158,90,99,0.5);
     z-index: -2;
     font-family: 'Quicksand', sans-serif;
     color: white;
