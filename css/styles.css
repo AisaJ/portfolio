@@ -1,8 +1,32 @@
 
-  .container{
+  nav{
     background-color: #b4dfe5;
-    z-index: 0.1;
+  }
+  nav ul{
+    text-align: right;
+
+  }
+  nav ul li{
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 1.5em;
+  }
+  nav ul li a{
+    color: #f4976c;
+    font-size: 1.2em;
+  }
+  nav ul li:hover{
+    background-color: #fbe8a6;
+  }
+  nav ul li a:hover{
+    color: #f4976c;
+  }
+  .container{
+    background-color: #303c6c;
+    z-index: -2;
     font-family: 'Lora', serif;
+    color: white;
   }
   .about{
     height: 25em;
@@ -12,10 +36,10 @@
     background-image: url('../images/office.jpg');
     width: 70%;
     background-size: cover;
-    height:15em;
+    height:25em;
     background-repeat: no-repeat;
     background-position: center;
-    text-align: justify;
+    text-align: center;
     color: white;
 
   }
