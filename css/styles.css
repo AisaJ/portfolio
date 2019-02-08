@@ -1,6 +1,8 @@
 
   nav{
     background-color: #b4dfe5;
+    position: fixed;
+    z-index: -1;
   }
   nav ul{
     text-align: right;
@@ -47,4 +49,8 @@
     padding: 0 1em 1em 1em;
     text-align: center;
     font-size: 1.5em;
+  }
+  #background{
+    float: left;
+    width: 70%;
   }
