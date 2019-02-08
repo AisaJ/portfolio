@@ -2,4 +2,11 @@
   .container{
     background-color: #c96567;
   }
+  .about h1{
+    float: left;
+    background-image: url('../images/holding-laptop.jpeg');
+    width: 70%;
+    text-align: bottom center;
+    background-size: cover;
+  }
 }
