@@ -10,17 +10,17 @@
     display: inline-block;
     text-decoration: none;
     text-transform: uppercase;
-    padding: 1.5em;
+    padding: 1.6em;
   }
   nav ul li a{
-    color: #f4976c;
+    color: #303c6c;
     font-size: 1.2em;
   }
   nav ul li:hover{
     background-color: #fbe8a6;
   }
   nav ul li a:hover{
-    color: #f4976c;
+    color: #303c6c;
   }
   .container{
     background-color: #303c6c;
@@ -42,4 +42,9 @@
     text-align: center;
     color: white;
 
+  }
+  #desc{
+    padding: 0 1em 1em 1em;
+    text-align: center;
+    font-size: 1.5em;
   }
