@@ -64,7 +64,10 @@
     font-size: 1.5em;
     font-family: 'Quicksand', sans-serif;
   }
-  #desc p span{
+  #one, #two{
+    color: #f4976c;
+  }
+  #three{
     font-size: 1.5em;
   }
   #background{
