@@ -122,3 +122,8 @@
   #contacts p{
     margin-bottom: 0;
   }
+  #contacts div a img{
+    margin-top: 1em;
+    padding-top: 1em;
+    margin-left: 1.2em;
+  }
