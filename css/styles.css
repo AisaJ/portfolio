@@ -114,9 +114,11 @@
     padding-right: 1em;
     font-size: 1.5em;
     color:#303c6c;
+    bottom: 0;
   }
   #contacts div img{
-    width: 14em;
-    height: auto;
-    padding: 1em;
+    padding: 0 1em 0 1em;
+  }
+  #contacts p{
+    margin-bottom: 0;
   }
