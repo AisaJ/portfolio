@@ -127,3 +127,29 @@
     padding-top: 1em;
     margin-left: 1.2em;
   }
+  .mywork{
+    background-color: #303c6c;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.5em;
+    color:#f4976c;
+    padding: 1em;
+  }
+  #projects{
+    background-color: #303c6c;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+  }
+  #projects div h2{
+    font-family: 'Roboto Condensed', sans-serif;
+    text-shadow: 0.025em 0.025em 0.15em #fbe8a6;
+  }
+  #projects div h2 a{
+    text-decoration: none;
+    color: #f4976c;
+  }
+  #projects div p{
+    color: white;
+  }
