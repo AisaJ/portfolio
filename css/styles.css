@@ -42,7 +42,7 @@
   }
   #name{
     float: left;
-    background-image: url('../images/office.jpg');
+    background-image: url('../images/code-girl.jpg');
     width: 70%;
     background-size: cover;
     background-position: center;
@@ -152,4 +152,7 @@
   }
   #projects div p{
     color: white;
+  }
+  #p1,#p2,#p3,#p4{
+    border: 0.2em solid #303c6c;
   }
