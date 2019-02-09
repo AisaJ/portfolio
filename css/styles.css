@@ -105,3 +105,9 @@
     text-align: center;
     color: #f4976c;
   }
+  #contacts{
+    font-family: 'Quicksand', sans-serif;
+    background-color: #b4dfe5;
+    display: flex;
+    flex-direction: row;
+  }
