@@ -51,6 +51,7 @@
     text-align: center;
     color: white;
     margin-right: 1em;
+    font-size: 1em;
   }
 
   #resume{
@@ -134,6 +135,10 @@
     font-size: 1.5em;
     color:#f4976c;
     padding: 1em;
+  }
+  #start h1 a{
+    text-decoration: none;
+    color: inherit;
   }
   #projects{
     background-color: #303c6c;
