@@ -3,10 +3,10 @@
 #### By **Aisa Jemila**
 ## Description
 Github repository :https://aisaj.github.io/portfolio/
-This is website representing my portfolio landing paging. It show cases my experies in the programming field among other technical and professional skills. It is a brief identification of profession and a bit of my social life.
+This is a website representing my portfolio landing paging. It show cases my expertise in the programming field among other technical and professional skills. It is a brief identification of my profession and a bit of my social life.
 ## Setup/Installation Requirements
 * Ensure you have a github account
-* On my github repositories, select project name
+* On my github repositories, select project name (portfolio)
 * Fork the repository
 * Go to your github account repositories to find the project
 
