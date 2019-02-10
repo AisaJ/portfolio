@@ -11,7 +11,7 @@ This is a website representing my portfolio landing paging. It show cases my exp
 * Go to your github account repositories to find the project
 
 ## Known Bugs
-There are no bugs at the moment but incase you come across any errors or failure of the application, do reach out via email: aisajemila@gmail.com
+The navigation bar appears longer than the body width. Working on correcting this error. Other than this, there are no other bugs but incase you come across any other errors or failure of the application, do reach out via email: aisajemila@gmail.com
 ## Technologies Used
 The application is built on HTML and CSS only.
 ## Support and contact details
