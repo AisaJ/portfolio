@@ -90,9 +90,7 @@
     text-align: left;
   }
   #skills{
-    padding-top: 1em;
     padding-top: 5em;
-
   }
   #skills h2{
     text-align: center;
@@ -142,10 +140,10 @@
     background-color: #303c6c;
     text-align: center;
     font-family: 'Quicksand', sans-serif;
-    font-size: 1.5em;
+    font-size: 1.2em;
     color:#f4976c;
-    padding: 1em;
-    display: inline-block;
+    padding: 0.6em;
+    
   }
   #start h1 a{
     text-decoration: none;
