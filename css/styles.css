@@ -38,7 +38,7 @@
   }
   .about{
     margin-top: 6em;
-    background-color: #303c6c;
+    backgrountod-color: #303c6c;
     height: 25em;
   }
   #name{
@@ -143,7 +143,7 @@
     font-size: 1.2em;
     color:#f4976c;
     padding: 0.6em;
-    
+
   }
   #start h1 a{
     text-decoration: none;
